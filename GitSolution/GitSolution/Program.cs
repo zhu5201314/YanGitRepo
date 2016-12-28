@@ -14,6 +14,7 @@ namespace GitSolution
             Console.WriteLine("Hello from vs2017");
             Console.WriteLine("Hello from vs2017 second time");
             Console.WriteLine("Push to GitHub");
+            Console.WriteLine("Test CI");
         }
     }
 }
