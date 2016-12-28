@@ -13,7 +13,7 @@ namespace GitSolution
             Console.WriteLine("Hello");
             Console.WriteLine("Hello from vs2017");
             Console.WriteLine("Hello from vs2017 second time");
-
+            aaa;
         }
     }
 }
