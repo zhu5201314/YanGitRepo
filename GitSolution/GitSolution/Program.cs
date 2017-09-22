@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,6 +18,7 @@ namespace GitSolution
             Console.WriteLine("Test CI");
             //ttt
             //feature
+            //
         }
     }
 }
