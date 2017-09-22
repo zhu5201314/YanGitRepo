@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +15,7 @@ namespace GitSolution
             Console.WriteLine("Hello from vs2017 second time");
             Console.WriteLine("Push to GitHub");
             Console.WriteLine("Test CI");
+            //ttt
         }
     }
 }
