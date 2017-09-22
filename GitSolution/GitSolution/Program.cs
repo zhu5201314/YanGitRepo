@@ -16,6 +16,7 @@ namespace GitSolution
             Console.WriteLine("Push to GitHub");
             Console.WriteLine("Test CI");
             //ttt
+            //feature
         }
     }
 }
