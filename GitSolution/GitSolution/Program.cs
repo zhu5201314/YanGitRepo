@@ -1,3 +1,4 @@
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,6 +22,7 @@ namespace GitSolution
             //20171010 vvv
             //lkkk
             //;;; yanagent
+            //feature
         }
     }
 }
