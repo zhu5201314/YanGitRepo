@@ -7,4 +7,5 @@ from github
 ffffff
 fflocalgit 
 gitbashcommit
+github
 
