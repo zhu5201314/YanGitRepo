@@ -2,6 +2,8 @@
 @echo off
 set PAT =%~1
 
+@echo https://%PAT%@github.com/Yanjingzhu/YanGitRepo.git
+
 git config --global user.email "yanjingzhu123@outlook.com"
 
 git config --global user.name "Yanjingzhu"
